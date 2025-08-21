@@ -7492,6 +7492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bronzo (Player)
       objectReference: {fileID: 0}
+    - target: {fileID: 5159451937807237150, guid: e6b42f9cde31c5048809cf51ef8e1e35, type: 3}
+      propertyPath: m_DefaultControlScheme
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6612803704115796327, guid: e6b42f9cde31c5048809cf51ef8e1e35, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.84
