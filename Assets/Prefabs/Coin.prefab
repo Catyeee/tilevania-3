@@ -165,6 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinPickup
   coinPickupSFX: {fileID: 8300000, guid: abd563a92f6be9146b2d37f868dc2627, type: 3}
+  pointsForCoinPickup: 100
 --- !u!82 &7232901667878912183
 AudioSource:
   m_ObjectHideFlags: 0
@@ -178,7 +179,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.4
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 0
   Mute: 0
