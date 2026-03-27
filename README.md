@@ -21,4 +21,4 @@ Khám phá và phân tích dự án game tilevania-3
 3. Áp dụng Cinemachine để điều khiển camera
 4. Quản lý game state với GameSession (Singleton + DontDestroyOnLoad)
 5. Xử lý input và chuyển động nhân vật với PlayerMovement
-6.L àm quen với Git/GitHub: clone project, commit và push mã nguồn lên repository.
+6.Làm quen với Git/GitHub: clone project, commit và push mã nguồn lên repository.
